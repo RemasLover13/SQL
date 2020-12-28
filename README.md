@@ -1,2 +1,2 @@
 # SQL
-homework
+Gleb Zhuravlev and Edik Krmakov
